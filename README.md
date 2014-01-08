@@ -1,7 +1,7 @@
 plexy
 =====
 
-Create multiple duplex object streams that **write to** and **read from** a single text stream.
+Create multiple duplex object streams that **read** and **write** through a single text stream.
 
 [![NPM](https://nodei.co/npm/plexy.png?compact=true)](https://nodei.co/npm/plexy/)
 
