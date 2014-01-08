@@ -1,6 +1,6 @@
 {
   "name": "plexy",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Create multiple duplex object streams that read and write through a single text stream.",
   "main": "index.js",
   "directories": {
